@@ -5,7 +5,7 @@ Sitio de la empresa netframe
 ## Authors
 
 * Rodrigo Francisco Pablo on github: @RodrigoFrancisco
-* Cecilia S.
+* Cecilia Silva Sandoval on github: @Cesos1104
 
 ## Tecnologias y/o lenguajes de programación utilizados
 * HTML5
