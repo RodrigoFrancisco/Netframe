@@ -1848,8 +1848,7 @@ input, select, textarea {
 			display: block;
 			margin: 0 0 2em 0;
 		}
-
-			.image.centered img {
+			.image.centered images{
 				margin: 0 auto;
 				width: auto;
 			}
