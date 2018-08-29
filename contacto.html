@@ -5,6 +5,8 @@
 	<meta charset="utf-8" />
 	<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
 	<link rel="stylesheet" href="assets/css/main.css" />
+	<link rel="stylesheet" href="assets/css/contacto.css" />
+	<link href="https://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet">
 	<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
 </head>
 <body class="homepage is-preload">
@@ -18,21 +20,15 @@
 		</ul>
 	</nav>
 	<div id="page-wrapper">
-		<!-- Banner -->
-		<section id="banner">
-			<header><h2>Contáctanos</h2></header>
-		</section>
-
 		<!-- main-->
-		<div class="wrapper style2">
-
+		<div class="wrapper style1">
 			<section id="main" class="container special">
 				<div class="row">
 					<!--Mapa-->
 					<article class="col-6 col-12-mobile special" style="text-align: center;">
 						<header>
 							<h2>Encuentranos</h2>
-							
+
 						</header>
 						<div  class="google-maps">
 							<iframe class="mapa" src="https://www.google.com/maps/embed?pb=!1m19!1m8!1m3!1d2050.1234540505175!2d-99.0925644091681!3d19.247674155158553!3m2!1i1024!2i768!4f13.1!4m8!3e6!4m0!4m5!1s0x85ce03f86cea2521%3A0x2fe4720fcaef4294!2sCarret+Xochimilco-tulyehualco+98-101%2C+Santa+Mar%C3%ADa+Nativitas%2C+Ciudad+de+M%C3%A9xico%2C+CDMX%2C+Mexico!3m2!1d19.2479493!2d-99.0916908!5e0!3m2!1sen!2sus!4v1535155202551" frameborder="0" style="border:0" allowfullscreen></iframe>
@@ -43,16 +39,16 @@
 					</article>
 
 					<!-- Contact -->
-					<article id="contact" class="col-6 col-12-mobile special">
+					<article id="contact" class="col-6 col-12-mobile special ">
 						<header><h2>Manda correo</h2></header>
-						<form method="post" action="#">
+						<form method="post" action="#" class="contacto">
 							<div class="fields">
 								<div class="field half">
-									<label for="name">Nombre</label>
+									<label for="name"><strong>Nombre</strong></label>
 									<input type="text" name="name" id="name" />
 								</div>
 								<div class="field half">
-									<label for="email">Correo</label>
+									<label for="email"><strong>Correo</strong></label>
 									<input type="text" name="email" id="email" />
 								</div>
 								<div class="field">
@@ -62,7 +58,10 @@
 							</div>
 							<br>
 							<ul class="actions">
-								<li><input type="submit" value="Enviar Mensaje" class="primary" /></li>
+								<center>
+									<li><input style="background-color: black;" class="boton" type="submit" value="Enviar Mensaje" class="primary" /></li>
+								</center>
+								
 							</ul>
 						</form>
 					</article>
@@ -84,7 +83,6 @@
 							<div class="left"><img src="images/smartphone.png"></div>
 							<div class="right">Móvil: 55 54945862</div>
 						</div>
-
 						<div class="col-4 col-6-mobile special">
 							<div class="left"><img src="images/whatsapp.png"></div>
 							<div class="right">WhatsApp: 55 20731136</div>
