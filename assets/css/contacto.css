@@ -1,0 +1,21 @@
+.contacto{
+	background-color: #D8D8D8;
+	/*border: solid 3px;
+	border-style: groove;*/
+	border-radius: 50px;
+	text-transform: uppercase;
+	font-family: 'Montserrat', sans-serif;
+	font-size: 70;
+}
+.contacto div{
+	margin:0px 2% 2% 2%;
+}
+.boton{
+	background-color: black;
+	margin-bottom: 10%;
+
+}
+form{
+	padding-top:  7%;
+
+}
