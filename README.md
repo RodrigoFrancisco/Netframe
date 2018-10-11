@@ -4,7 +4,7 @@ Sitio de la empresa netframe
 
 ## Authors
 
-* Rodrigo Francisco Pablo on github: @RodrigoFrancisco
+* Rodrigo Francisco Pablo on github: [@RodrigoFrancisco](https://github.com/RodrigoFrancisco)
 * Cecilia Silva Sandoval on github: @Cesos1104
 
 ## Tecnologias y/o lenguajes de programación utilizados
@@ -35,5 +35,7 @@ Sitio de la empresa netframe
 * Scrollex (github.com/ajlkn/jquery.scrollex)
 * Responsive Tools (github.com/ajlkn/responsive-tools)
 
+### GithubPages
 
+https://rodrigofrancisco.github.io/Netframe/
 
